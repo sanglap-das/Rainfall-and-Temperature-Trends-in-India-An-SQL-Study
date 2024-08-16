@@ -7,13 +7,21 @@ while the second dataset encompasses yearly Temperature data for India during th
 
 #### Objective :
 **Data Cleaning:** Clean and prepare the data for analysis.
+
 **Database Queries:** Extract specific information efficiently using SQL.
+
 **EDA Insights:** Reveal data patterns and trends.
+
 **Climate Change Impact:** Assess climate change effects on India's climate.
+
 **Correlation Analysis:** Identify relationships between rainfall and temperature.
+
 **Regional Variations:** Explore spatial variations in climate data.
+
 **Forecasting Values :** Forecast future climate trends using historical data.
+
 **Visualizations:** Use interactive visuals to convey results effectively.
+
 **Documentation:** Maintain comprehensive project documentation.
 
 #### List of Findings :
